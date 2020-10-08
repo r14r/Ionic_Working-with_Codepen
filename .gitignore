@@ -40,3 +40,6 @@ UserInterfaceState.xcuserstate
 **/.env.d
 **/.env
 
+
+**/.autoenv.d
+**/.autoenv
